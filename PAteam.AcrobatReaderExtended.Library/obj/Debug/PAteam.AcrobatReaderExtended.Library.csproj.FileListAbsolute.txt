@@ -22,3 +22,15 @@ C:\Users\Mateusz\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExt
 C:\Users\Mateusz\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\bin\Debug\Microsoft.mshtml.dll
 C:\Users\Mateusz\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Mateusz\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\obj\Debug\PAteam.AcrobatReaderExtended.Library.csproj.CopyComplete
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\bin\Debug\PAteam.AcrobatReaderExtended.Library.dll
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\bin\Debug\PAteam.AcrobatReaderExtended.Library.pdb
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\bin\Debug\Direct.Interface.dll
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\bin\Debug\Direct.Shared.dll
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\bin\Debug\itextsharp.dll
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\bin\Debug\log4net.dll
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\obj\Debug\PAteam.AcrobatReaderExtended.Library.csproj.AssemblyReference.cache
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\obj\Debug\PAteam.AcrobatReaderExtended.Library.csproj.CoreCompileInputs.cache
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\obj\Debug\PAteam.AcrobatReaderExtended.Library.csproj.CopyComplete
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\obj\Debug\PAteam.AcrobatReaderExtended.Library.dll
+C:\Users\heinrich\Source\Repos\NICE-AcrobatReaderExtended\PAteam.AcrobatReaderExtended.Library\obj\Debug\PAteam.AcrobatReaderExtended.Library.pdb
